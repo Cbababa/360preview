@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-r11-ve",
-      "name": "R11 VE",
+      "id": "0-r11",
+      "name": "R11",
       "levels": [
         {
           "tileSize": 256,
@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -1.7637349289083986,
-        "pitch": 0.0299753707197965,
-        "fov": 1.0744456294297355
+        "yaw": -2.2417015437948606,
+        "pitch": 0.040452762873412595,
+        "fov": 0.8622774814375644
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -35,7 +35,7 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
