@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360-vr-r7-master-recovered-recovered-2e-chi",
-      "name": "360-VR R7 (Master)-Recovered-Recovered 2e (Chi)",
+      "id": "0-r11-ve",
+      "name": "R11 VE",
       "levels": [
         {
           "tileSize": 256,
@@ -22,11 +22,11 @@ var APP_DATA = {
           "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -1.5788454512386885,
-        "pitch": 0.20804652207374374,
-        "fov": 0.9789053594153913
+        "yaw": -1.7637349289083986,
+        "pitch": 0.0299753707197965,
+        "fov": 1.0744456294297355
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -35,7 +35,7 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
